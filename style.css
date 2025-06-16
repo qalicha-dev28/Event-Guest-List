@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input, select, button {
+  padding: 8px;
+  margin: 5px 0;
+  font-size: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.guest-item {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.friend {
+  background-color: #e0f7fa;
+}
+
+.family {
+  background-color: #fce4ec;
+}
+
+.colleague {
+  background-color: #f3e5f5;
+}
+
+.guest-name {
+  font-weight: bold;
+}
+
+.guest-info {
+  margin-left: 10px;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+button {
+  margin-left: 5px;
+}
